@@ -1,4 +1,4 @@
-# hair-simulation
+# Hair Simulation Demo
 
 Simple hair simulation using PyGame library. It is inspired by the ["Pixar in the Box"](https://www.khanacademy.org/computing/pixar/simulation) course on Khan Academy.
 
